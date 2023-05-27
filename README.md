@@ -1,7 +1,5 @@
 # flutter_yoga
 
-Yeh Bahut Accha Yoga Ka App Hai Please Install Karna.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
